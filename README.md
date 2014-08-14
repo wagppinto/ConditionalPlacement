@@ -33,5 +33,6 @@ The third project for iOS pre-course using conditionals.
 - If leonardPlace is not equal to 1
   - If that's false as well, log "Karl and Leonard are placed 2" 
 
-### Step 5: Check your work
+### Completion: 
+- It should print that "Karl is placed 1 and Leonard is placed 2"
 - Feel free to play with the scores of each name and validate that your placement check work correctly
