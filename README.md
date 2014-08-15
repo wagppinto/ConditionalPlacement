@@ -3,6 +3,11 @@ ConditionalPlacement
 
 The third project for iOS pre-course using conditionals.
 
+### Resources:
+- Read "[Control Structures, Loops and Collections](http://codewithchris.com/how-to-make-iphone-apps-control-structures-loops-and-collections/)" intro to conditionals and the switch statement
+- For Objective-C make sure you've read all of RyPress's [C Basics](http://rypress.com/tutorials/objective-c/c-basics.html). It's a great resource to go back to when you have questions on how to do something in Objective-C
+- For Swift read "Section 1" of this [Introduction to Swift](http://code.tutsplus.com/tutorials/an-introduction-to-swift-part-2--cms-21484). Feel free to read the whole thing, but you only need Section 1 for this project.
+
 ### Step 1: Get the project started on your computer and on GitHub
 - Either create a project locally and push to GitHub
 - Or fork this project and clone it to your computer
